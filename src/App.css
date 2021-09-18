@@ -1,0 +1,9 @@
+.MuiFormControl-marginNormal {
+  margin-top: 0 !important;
+  margin-bottom: 8px;
+}
+.app {
+  width: 100%;
+  min-height: 105vh;
+}
+
